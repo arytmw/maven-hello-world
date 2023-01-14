@@ -13,6 +13,10 @@
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
   </properties>
 
+  <properties>
+        <maven-compiler-plugin-version>2.3.2</maven-compiler-plugin-version>
+  </properties>
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
